@@ -16,7 +16,7 @@ to the services that power them.
 
 * 🤖 Building AI assistants and integrations that connect agents with analytics tools and dashboard context.
 * 📊 Developing analytics and embedded experiences at **[Preset](https://preset.io/)**.
-* 🌱 Contributing code, reviewing changes, and helping shape **Apache Superset** as a committer.
+* 🌱 Contributing code, reviewing changes, and helping shape **[Apache Superset](https://github.com/apache/superset)** as a committer.
 * 🛠️ Working across **React, TypeScript, and Python**, from interfaces to backend services.
 
 ### 🧭 Engineer on a mission
